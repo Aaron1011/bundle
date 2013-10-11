@@ -16,3 +16,6 @@
 [submodule "vim-rails"]
 	path = vim-rails
 	url = git://github.com/tpope/vim-rails.git
+[submodule "vim-localvimrc"]
+	path = vim-localvimrc
+	url = git@github.com:embear/vim-localvimrc.git
