@@ -1,0 +1,3 @@
+[submodule "xmledit"]
+	path = xmledit
+	url = https://github.com/sukima/xmledit.git
