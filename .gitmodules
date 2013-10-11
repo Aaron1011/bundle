@@ -43,3 +43,9 @@
 [submodule "nerdtree"]
 	path = nerdtree
 	url = https://github.com/scrooloose/nerdtree.git
+[submodule "L9"]
+	path = L9
+	url = https://github.com/vim-scripts/L9.git
+[submodule "l9"]
+	path = l9
+	url = https://github.com/vim-scripts/L9.git
