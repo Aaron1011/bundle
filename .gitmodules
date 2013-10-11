@@ -7,3 +7,6 @@
 [submodule "vim-vividchalk"]
 	path = vim-vividchalk
 	url = git://github.com/tpope/vim-vividchalk.git
+[submodule "vim-unstack"]
+	path = vim-unstack
+	url = https://github.com/mattboehm/vim-unstack.git
