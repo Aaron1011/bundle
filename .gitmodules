@@ -40,3 +40,6 @@
 [submodule "screen"]
 	path = screen
 	url = git://github.com/ervandew/screen.git
+[submodule "nerdtree"]
+	path = nerdtree
+	url = https://github.com/scrooloose/nerdtree.git
