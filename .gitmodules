@@ -37,3 +37,6 @@
 [submodule "vim-bundler"]
 	path = vim-bundler
 	url = git://github.com/tpope/vim-bundler.git
+[submodule "screen"]
+	path = screen
+	url = git://github.com/ervandew/screen.git
