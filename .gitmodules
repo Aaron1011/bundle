@@ -10,3 +10,6 @@
 [submodule "vim-unstack"]
 	path = vim-unstack
 	url = https://github.com/mattboehm/vim-unstack.git
+[submodule "vim-ruby"]
+	path = vim-ruby
+	url = git://github.com/vim-ruby/vim-ruby.git
