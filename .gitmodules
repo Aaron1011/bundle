@@ -49,3 +49,6 @@
 [submodule "l9"]
 	path = l9
 	url = https://github.com/vim-scripts/L9.git
+[submodule "jedi-vim"]
+	path = jedi-vim
+	url = git://github.com/davidhalter/jedi-vim.git
