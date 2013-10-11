@@ -52,3 +52,6 @@
 [submodule "jedi-vim"]
 	path = jedi-vim
 	url = git://github.com/davidhalter/jedi-vim.git
+[submodule "jasmine.vim"]
+	path = jasmine.vim
+	url = git://github.com/claco/jasmine.vim.git
