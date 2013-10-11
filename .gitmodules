@@ -4,3 +4,6 @@
 [submodule "xml.vim"]
 	path = xml.vim
 	url = git://github.com/othree/xml.vim.git
+[submodule "vim-vividchalk"]
+	path = vim-vividchalk
+	url = git://github.com/tpope/vim-vividchalk.git
