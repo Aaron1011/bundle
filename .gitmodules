@@ -58,3 +58,6 @@
 [submodule "command-t"]
 	path = command-t
 	url = git://git.wincent.com/command-t.git
+[submodule "vim-arduino-syntax"]
+	path = vim-arduino-syntax
+	url = https://github.com/sudar/vim-arduino-syntax.git
